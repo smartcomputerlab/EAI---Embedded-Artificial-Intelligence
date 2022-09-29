@@ -1,4 +1,4 @@
-# EmbeddedAI
+# Embedded-AI
 This repo contains the preparations for Embedded AI laboratories.
 
 We are going to work on several hrdware platforms including RPI, Google CORAL and Nvidia Jetson boards.
